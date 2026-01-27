@@ -24,3 +24,9 @@ runs
 run-data
 
 repo
+
+# MacOS Finder Metadata
+.DS_Store
+._.DS_Store
+**/.DS_Store
+**/._.DS_Store
